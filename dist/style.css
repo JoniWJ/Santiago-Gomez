@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f8f5f2;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #5c3d2e;
+}
+
+h2 {
+  color: #7b4b34;
+  margin-top: 20px;
+}
+
+.image-center {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.image-center img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+section img {
+  max-width: 250px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
